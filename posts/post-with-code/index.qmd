@@ -1,11 +1,10 @@
 ---
-title: "Resumen sobre mi"
+title: "¿Qué hice en mi pregrado?"
 author: "Isamar Sampayo"
 date: "2024-08-04"
-categories: [Proyectos, Hobbies]
+categories: [Proyectos]
 image: "robots.jpg"
 ---
 
-A nivel academico participe en un grupo de investigación en el cual escribimos 3 articulos cientificos relacionados con robotica paralela y robots manejados por cable.
+A nivel academico participe en un grupo de investigación en el cual escribimos 3 articulos cientificos relacionados con robotica paralela y robots manejados por cable. Tambien, fui capitana del equipo de voleibol en las olimpiadas de la universidad y vicepresidenta de un grupo estudiantil llamado CRU. 
 
-Por otro lado entre mis hobbies tengo: tocar piano, cantar, ver series coreanas, escribir y pintar en algunas ocasiones. 
