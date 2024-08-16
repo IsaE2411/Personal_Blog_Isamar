@@ -6,10 +6,12 @@ website:
   navbar:
     right:
       - about.qmd
+      - icon: linkedin
+        href: https://www.linkedin.com/in/isamar-sampayo-036276139/
       - icon: github
-        href: https://github.com/
+        href: https://github.com/IsaE2411
       - icon: twitter
-        href: https://twitter.com
+        href: https://x.com/isapsam
 format:
   html:
     theme: quartz
